@@ -43,3 +43,10 @@ light:
       - light.office_spotlights
 ```
 
+You can also use the following options for additional functionality:
+
+* `stay_off: true` option allows to prevent turning on the group if no lights are on. This can be
+useful if you have a very large group (for example, encompassing all your lights in house) and you do not want to
+accidentally turn on all the lights at once.
+* `prevent_off: true` on the other hand prevents turning off lights in the group. Like in previous example, this can
+be used to prevent accidentally turning off a very large group of lights.
