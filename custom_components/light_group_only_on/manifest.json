@@ -1,0 +1,10 @@
+{
+    "domain": "light_group_only_on",
+    "name": "Light group only ON",
+    "codeowners": ["@skydev0h"],
+    "documentation": "https://github.com/skydev0h/light-group-only-on",
+    "integration_type": "entity",
+    "iot_class": "calculated", 
+    "issue_tracker": "https://github.com/skydev0h/light-group-only-on",
+    "version": "1.0.0"
+  }
